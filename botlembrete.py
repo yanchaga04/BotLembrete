@@ -73,5 +73,3 @@ twt_handler = CommandHandler('twitter', twitter)
 dispatcher.add_handler(twt_handler)"""
 
 updater.start_polling()
-
-#iniciar o bot:
